@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+I'm Dogdudez. Just trying to figure out how to use github.
+ETH to the moon!
